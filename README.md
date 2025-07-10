@@ -1,12 +1,18 @@
 ## 👋Hi! I'm Emily Sepulveda, 💻Software developer | 🎨 UI/UX Designer
  
-<div align="center">
-  <img style="height: 50; width: auto;" src="https://github-readme-stats.vercel.app/api?username=esepulveda12&count_private=true&theme=tokyonight&show_icons=true&hide=stars,prs,issues&hide_border=true"/>
-  <img style="height: 50; width: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esepulveda12&theme=tokyonight&layout=donut&hide_border=true"/>
-</div>
 
  ![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
+##
+
+<div align="center">
+  <img style="height: 200px; width: auto;" src="https://github-readme-stats.vercel.app/api?username=esepulveda12&show_icons=true&theme=radical" />
+  <br />
+  <img style="height: auto; width: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esepulveda12&theme=tokyonight&layout=pie&hide_border=true" />
+</div>
+
+##
 
 <div align="center" style="margin-top:20; margin-bottom:20;">
   <table>
@@ -78,10 +84,8 @@
  <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif">
 </div>
   
-  ##
- 
+  ##  🤝 Conectemos
 
-# 🤝 Conectemos
 <div align="center">
   <a href="https://www.behance.net" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>

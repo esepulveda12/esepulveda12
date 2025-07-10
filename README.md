@@ -4,10 +4,14 @@
  ![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/67799370/464969494-2c4018eb-b503-4623-b2c5-b929e3e521af.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIxODc2ODAsIm5iZiI6MTc1MjE4NzM4MCwicGF0aCI6Ii82Nzc5OTM3MC80NjQ5Njk0OTQtMmM0MDE4ZWItYjUwMy00NjIzLWIyYzUtYjkyOWUzZTUyMWFmLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzEwVDIyNDMwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE5ZTBhMmI4MDYyZDlhOTM0ZTMyMTk3ODdjMDlhODlhYWRmZWFlMjFmZjVjZDg3MDM1Y2Y0ODQ5NTE5YWI0MGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.O51Xplj6ndGzm9hJNhCCxOKucy6Ts1OYQSBdcsQvgeQ" alt="Descripción de la imagen" style="width:450px; height:auto;" />
+</div>
+
+
 ##
 
 <div align="center">
-  <img style="height: 200px; width: auto;" src="https://github-readme-stats.vercel.app/api?username=esepulveda12&show_icons=true&theme=radical" />
   <br />
   <img style="height: auto; width: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esepulveda12&theme=tokyonight&layout=pie&hide_border=true" />
 </div>

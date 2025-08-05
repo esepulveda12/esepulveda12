@@ -85,8 +85,7 @@
 <div>
  <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif">
 </div>
-  
-  ##  🤝 Conectemos
+
 
 <div align="center">
   <a href="https://www.behance.net" target="_blank">

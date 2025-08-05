@@ -5,7 +5,7 @@
 ![GitHub Snake dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <div align="center">
-  <img src="https://postimg.cc/XZ4zwGxV" alt="Descripción de la imagen" style="width:450px; height:auto;" />
+  <img src="https://postimg.cc/XZ4zwGxV" alt="x" width="450" />
 </div>
 
 

@@ -4,9 +4,10 @@
  ![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
-<div>
- <img align="center" alt="Coding" width="300" src="https://i.postimg.cc/nLDffqDQ/20250804-2033-image.png">
+<div align="center">
+  <img src="https://i.postimg.cc/nLDffqDQ/20250804-2033-image.png" alt="x" width="450" />
 </div>
+
 
 ##
 

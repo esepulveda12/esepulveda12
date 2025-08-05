@@ -1,13 +1,11 @@
 ## 👋Hi! I'm Emily Sepulveda, 💻Software developer | 🎨 UI/UX Designer
- 
+
+ <div align="center">
+  <img src="https://i.postimg.cc/nLDffqDQ/20250804-2033-image.png" alt="x" />
+</div>
 
  ![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-
-<div align="center">
-  <img src="https://i.postimg.cc/nLDffqDQ/20250804-2033-image.png" alt="x" width="450" />
-</div>
-
 
 ##
 

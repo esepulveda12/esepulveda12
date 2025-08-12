@@ -6,7 +6,7 @@
 ##
 
  <div align="center">
-  <img src="https://i.postimg.cc/nLDffqDQ/20250804-2033-image.png" alt="x" />
+  <img src="https://i.ibb.co/7t85TWDG/20250812-0849-image.png" alt="x" />
 </div>
 
 <div align="center">

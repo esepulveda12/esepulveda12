@@ -1,7 +1,7 @@
 ##
 
 <div align="center">
-  <img src="./banner.jpg" alt="Banner" width="100%" />
+  <img src="./banner.jpeg" alt="Banner" width="100%" />
 </div>
 
  ![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)

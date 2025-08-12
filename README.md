@@ -1,7 +1,7 @@
 ## 👋Hi! I'm Emily Sepulveda, 💻Software developer | 🎨 UI/UX Designer
 
  <div align="center">
-  <img src="https://i.ibb.co/7t85TWDG/20250812-0849-image.png" alt="x" />
+  <img src="https://i.ibb.co/Jjwz9pp1/a-wide-github-banner-design-at-1920x300-8y9wt57-BTtu16v-V4u-N4-HIA-6nmv-GUQTTq-Coy-QGydp-IKOw.jpg" alt="x" />
 </div>
 
  ![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
